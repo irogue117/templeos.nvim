@@ -11,7 +11,7 @@
 ## Install
 
 ```lua
-use "lunarvim/templeos.nvim"
+use "irogue117/templeos.nvim" ("lunarvim/templeos.nvim" for the original repo)
 ```
 
 ## Activate
